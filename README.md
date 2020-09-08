@@ -71,3 +71,4 @@ cd bigboss_bot
 chmod 777 *
 sudo bash Bigboss.sh
 ```
+<h6>this code is complete modification of TBOMB , we removed the 15 calls limit and made it unlimited </h6>
